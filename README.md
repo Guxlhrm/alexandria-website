@@ -1,34 +1,32 @@
-# ☀️ Alexandria Website (Para Consultores)
+# Alexandria Website (Para Consultores)
 
 🇧🇷 **Português** | [🇺🇸 English Version Below](#-english-version)  
 
-## 💻 Sobre o Projeto  
+## Sobre o Projeto  
 
-Este site foi criado para fornecer uma plataforma intuitiva e acessível onde consultores da Alexandria possam divulgar seus serviços de maneira profissional. O foco principal é garantir que a experiência do usuário seja fluida e agradável, independentemente do dispositivo utilizado.  
+Criei este site para fornecer uma plataforma intuitiva e acessível onde consultores da Alexandria possam divulgar seus serviços de maneira profissional. O foco principal é garantir que a experiência do usuário seja fluida e agradável, independentemente do dispositivo utilizado.  
 
-## 📱 Responsividade Total  
+## Responsividade  
 
 O site foi desenvolvido com um design **100% responsivo**, garantindo uma navegação otimizada em qualquer tela, seja **desktop, tablet ou smartphone**.  
 
-✔ **Layout adaptável**  
-✔ **Imagens e elementos ajustáveis** para diferentes resoluções  
-✔ **Testado em múltiplos dispositivos** para melhor usabilidade  
+- **Layout adaptável**  
+- **Imagens e elementos ajustáveis** para diferentes resoluções  
+- **Testado em múltiplos dispositivos** para melhor usabilidade  
 
-💡 **Tecnologias aplicadas para responsividade:**  
+ **Tecnologias aplicadas para responsividade:**  
 - **CSS Media Queries** para adaptar os estilos conforme a tela.  
 - **Grid e Flexbox** para melhor organização dos elementos.  
 - **Otimização de imagens e fontes** para carregamento rápido em mobile.  
 
-## 🛠️ Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 
 - **HTML5** e **CSS3** para a estrutura e estilização.  
 - **JavaScript** para interatividade.  
 - **Media Queries** para um design responsivo.  
-- **Fontes e imagens otimizadas** para carregamento eficiente. 
+- **Fontes e imagens otimizadas** para carregamento eficiente.   
 
-## 🔒 Privacidade das Informações  
-
-Por questões de privacidade, as informações de contato da consultora foram removidas do código-fonte. Caso queira testar a aplicação, basta substituir os dados fictícios pelos seus próprios no código.
+Obs: Por questões de privacidade, as informações de contato da consultora foram removidas do código-fonte. Caso queira testar a aplicação, basta substituir os dados fictícios pelos seus próprios no código.
 
 ## 📸 Demonstração  
 
@@ -44,7 +42,7 @@ Por questões de privacidade, as informações de contato da consultora foram re
 
 ![Image](https://github.com/user-attachments/assets/038d32eb-1af4-4917-ab06-f500e835af61)
 
-## 📩 Contato  
+## Contato  
 
 Se tiver dúvidas ou sugestões sobre o projeto, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/guilherme-duarrte/) ou [GitHub](https://github.com/Guxlhrm).  
 
@@ -52,11 +50,11 @@ Se tiver dúvidas ou sugestões sobre o projeto, entre em contato comigo atravé
 
 ## 🇺🇸 English Version  
 
-## 💻 About the Project  
+## About the Project  
 
 This website was created to provide an intuitive and accessible platform where Alexandria consultants can showcase their services professionally. The main focus is to ensure a smooth and pleasant user experience across all devices.  
 
-## 📱 Fully Responsive  
+## Fully Responsive  
 
 The site was designed with a **100% responsive layout**, ensuring an optimized browsing experience on **desktops, tablets, and smartphones**.  
 
@@ -64,12 +62,12 @@ The site was designed with a **100% responsive layout**, ensuring an optimized b
 ✔ **Adjustable images and elements** for different resolutions  
 ✔ **Tested on multiple devices** for better usability  
 
-💡 **Technologies used for responsiveness:**  
+ **Technologies used for responsiveness:**  
 - **CSS Media Queries** to adapt styles based on screen size.  
 - **Grid and Flexbox** for better element organization.  
 - **Optimized images and fonts** for fast loading on mobile.  
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 - **HTML5** and **CSS3** for structure and styling.  
 - **JavaScript** for interactivity.  
@@ -77,11 +75,11 @@ The site was designed with a **100% responsive layout**, ensuring an optimized b
 - **Optimized fonts and images** for efficient loading.  
 - **Hosting** (if published, mention where: GitHub Pages, Vercel, Netlify, etc.).  
 
-## 🔒 Privacy Notice  
+## Privacy Notice  
 
-For privacy reasons, the consultant's contact information has been removed from the source code. If you want to test the application, simply replace the sample data with your own in the code.  
+PS: For privacy reasons, the consultant's contact information has been removed from the source code. If you want to test the application, simply replace the sample data with your own in the code.  
 
-## 📸 Demo  
+## Demo  
 
 ![Image](https://github.com/user-attachments/assets/4405ba8d-0e75-410a-bff7-b32a0044db47)
 
@@ -95,6 +93,6 @@ For privacy reasons, the consultant's contact information has been removed from 
 
 ![Image](https://github.com/user-attachments/assets/038d32eb-1af4-4917-ab06-f500e835af61)
 
-## 📩 Contact  
+## Contact  
 
 If you have any questions or suggestions about the project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/guilherme-duarrte/) or [GitHub](https://github.com/Guxlhrm).
